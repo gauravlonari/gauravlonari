@@ -28,15 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravlonari&" alt="gauravlonari" /></p>
 
-<div style="display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: space-around;
-    justify-content: space-around;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravlonari&show_icons=true&locale=en&layout=compact" alt="gauravlonari" /></p>
-<br/>
-  <div style="display: inline-block;
-    padding: 2vh;">
+<br/><br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lonarigaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lonarigaurav" height="30" width="40" /></a>
@@ -47,4 +40,3 @@
 <a href="https://www.hackerrank.com/gaurav_22120147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurav_22120147" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gauravlonari/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravlonari/profile" height="30" width="40" /></a>
 </p>
-    <div></div>
