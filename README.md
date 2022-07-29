@@ -17,7 +17,7 @@
 
 - 📄 My Resume <a href="https://drive.google.com/drive/folders/1JoYhvR2LAOs7atCZcOqDiwgNE3ThsOnS?usp=sharing" target="_blank">Here</a>
 
-- 📫 How to reach me **gauravlonariofficial@gmail.com**
+- 📫 How to reach me <a href="mailto:gauravlonariofficial@gmail.com" target="_blank">gauravlonariofficial@gmail.com</a>
 
 - ⚡ Fun fact **LOL**
 
@@ -31,6 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravlonari&" alt="gauravlonari" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravlonari&show_icons=true&locale=en&layout=compact" alt="gauravlonari" /></p>
+<p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lonarigaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lonarigaurav" height="30" width="40" /></a>
@@ -40,4 +41,5 @@
 <a href="https://www.codechef.com/users/gauravlonari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gauravlonari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gaurav_22120147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurav_22120147" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gauravlonari/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravlonari/profile" height="30" width="40" /></a>
+</p>
 </p>
