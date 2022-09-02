@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm <a href="https://linkedin.com/in/gauravlonari">Gaurav Lonari</a> </h1>
-<h3 align="center">A passionate software enthusiast doing all kinds of development (Android / Web / x86).</h3>
+<h3 align="center">A tech enthusiast doing all kinds of software development (Android / Web / x86).</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravlonari&label=Profile%20views&color=0e75b6&style=flat" alt="gauravlonari" /> </p> -->
 
