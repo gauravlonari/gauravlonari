@@ -2,14 +2,15 @@
 <h3 align="center">A passionate software enthusiast doing all kinds of development (Android / Web / x86).</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravlonari&label=Profile%20views&color=0e75b6&style=flat" alt="gauravlonari" /> </p> -->
+-Here's my Linkedin: [LinkedIn](https://linkedin.com/in/gauravlonari)
 
 - 🔭 I’m currently working on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
 
-- 🤝 I’m looking for help with **Managing my schedule!**
+- 🤝 I’m looking for help with [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
 
 - 📝 My blog site <a target="_blank" href="http://www.freeqry.blogspot.com">FreeQuery</a>
 
