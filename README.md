@@ -13,7 +13,7 @@
 
 - 📝 My blog site <a target="_blank" href="http://www.freeqry.blogspot.com">FreeQuery</a>
 
-- 💬 Ask me about **Solutions for your technical problems.**
+- 💬 Visit my Portfolio **[Here](http://gauravlonari.github.io)**
 
 - 📄 My Resume <a href="https://drive.google.com/drive/folders/1JoYhvR2LAOs7atCZcOqDiwgNE3ThsOnS?usp=sharing" target="_blank">Here</a>
 
