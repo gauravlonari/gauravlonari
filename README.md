@@ -44,17 +44,20 @@
 
  <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=gauravlonari'></p>
 </div>
+
+
+## Social Handles:
+<div align="center">
+
+<a href="https://auth.geeksforgeeks.org/user/gauravlonari/profile" target="blank"><img src="https://img.shields.io/badge/GEEKSFORGEEKS%20-%23B300B3.svg?&style=for-the-badge&logo=geeksforgeeks"/></a>
+<a href="https://www.codechef.com/users/gauravlonari" target="blank"><img src="https://img.shields.io/badge/CODECHEF%20-%23FFFFFF.svg?&style=for-the-badge&logo=CodeChef&logoColor=black"/></a> 
+<a href="https://instagram.com/lonari_gaurav_95" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gauravlonari" target="blank"><img src="https://img.shields.io/badge/LINKEDIN%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/freeq" target="blank"><img src="https://img.shields.io/badge/YOUTUBE%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://twitter.com/lonarigaurav" target="blank"><img src="https://img.shields.io/badge/TWITTER%20-%23ffffff.svg?&style=for-the-badge&logo=twitter"/></a>
+<a href="https://www.hackerrank.com/gaurav_22120147" target="blank"><img src="https://img.shields.io/badge/HACKERRANK%20-%23B300B3.svg?&style=for-the-badge&logo=hackerrank"/></a>
  
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/gauravlonari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravlonari" height="30" width="40" /></a>
-<a href="https://instagram.com/lonari_gaurav_95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lonari_gaurav_95" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/freeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freeq" height="30" width="40" /></a>
-<a href="https://twitter.com/lonarigaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lonarigaurav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gaurav_22120147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurav_22120147" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gauravlonari/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravlonari/profile" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gauravlonari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gauravlonari" height="30" width="40" /></a>
-</p>
+</div>
 
 ## Holopin Badge Collection
 [![@gauravlonari's Holopin board](https://holopin.me/gauravlonari)](https://holopin.io/@gauravlonari)
