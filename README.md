@@ -32,7 +32,7 @@
 &emsp; __Extras:__ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 
 ## Activity Statistics
-<p align="center">
+<div align="center">
 
 |GitStreaks|
 |---|
@@ -42,6 +42,9 @@
 |--- | --- |
 |![Activity Statistics](https://github-readme-stats.vercel.app/api?username=gauravlonari&show_icons=true&theme=midnight-purple) |  [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravlonari&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/gauravlonari/github-readme-stats)|
 
+ <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=gauravlonari'></p>
+</div>
+ 
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/gauravlonari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravlonari" height="30" width="40" /></a>
@@ -52,4 +55,6 @@
 <a href="https://auth.geeksforgeeks.org/user/gauravlonari/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravlonari/profile" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gauravlonari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gauravlonari" height="30" width="40" /></a>
 </p>
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=gauravlonari'></p>
+
+## Holopin Badge Collection
+[![@gauravlonari's Holopin board](https://holopin.me/gauravlonari)](https://holopin.io/@gauravlonari)
