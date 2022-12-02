@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
 
-- 🤝 I’m looking for help with [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
+- 🤝 I’m looking for help with [ELAR](https://github.com/gauravlonari/elar)
 
 - 📝 My blog site <a target="_blank" href="http://www.freeqry.blogspot.com">FreeQuery</a>
 
