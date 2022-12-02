@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
+<!-- - 👯 I’m looking to collaborate on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar) -->
 
 - 🤝 I’m looking for help with [ELAR](https://github.com/gauravlonari/elar)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me <a href="mailto:gauravlonariofficial@gmail.com" target="_blank">gauravlonariofficial@gmail.com</a>
 
-- ⚡ Fun fact **1's upon a time, there was no 0**
+- ⚡ Fun fact **undefined can also be defined in javascript**
 
 ## Skillset
 
