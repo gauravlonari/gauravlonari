@@ -65,5 +65,5 @@
 ## Holopin Badge Collection
 [![@gauravlonari's Holopin board](https://holopin.me/gauravlonari)](https://holopin.io/@gauravlonari)
 
-### If you are reached this, you are free to laugh
+### If you have reached this, you are free to laugh
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117" width="100%" align="center"/>
