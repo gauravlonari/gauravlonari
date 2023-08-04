@@ -1,11 +1,11 @@
-<h1 align="center">Hi there👋, I'm <a href="https://linkedin.com/in/gauravlonari">Gaurav Lonari</a> </h1>
-<h3 align="center">A tech enthusiast doing all kinds of software development (Android / Web / x86).</h3>
+<h1 align="center">Hi there 👋, I'm <a href="https://linkedin.com/in/gauravlonari">Gaurav Lonari</a> </h1>
+<h3 align="center">A tech enthusiast doing all kinds of software development (Android / Web / Hybrid / Game)</h3>
 
 <div align="center">
 <a href="https://instagram.com/lonari_gaurav_95" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/gauravlonari" target="blank"><img src="https://img.shields.io/badge/LINKEDIN%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/freeq" target="blank"><img src="https://img.shields.io/badge/YOUTUBE%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://twitter.com/lonarigaurav" target="blank"><img src="https://img.shields.io/badge/TWITTER%20-%23ffffff.svg?&style=for-the-badge&logo=twitter"/></a>
+<a href="https://twitter.com/lonarigaurav" target="blank"><img src="https://img.shields.io/badge/TWITTER%20-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
 <div align="center">
@@ -23,9 +23,13 @@
   
 |<img src="https://github.com/gauravlonari/static/blob/main/brain.png" alt="brain" width="50px"/>|<img src="https://github.com/gauravlonari/static/blob/main/united.png" alt="united" width="50px"/>|
 |---|---|
-|<p align="center">🔭 I’m currently working on [NotesAnywhere](https://github.com/gauravlonari/NotesAnywhere) </p> | <p align="center">📜 <a href="https://drive.google.com/drive/folders/1JoYhvR2LAOs7atCZcOqDiwgNE3ThsOnS?usp=sharing" target="_blank">Resume</a></p>
-|🌱 I’m currently expertizing **SpringBoot**| 👯 I’m looking to collaborate on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar) | 💬 Visit my Portfolio **[Here](http://gauravlonari.github.io)** | 📝 My blog site <a target="_blank" href="http://www.freeqry.blogspot.com">FreeQuery</a> | 📫 How to reach me <a href="mailto:gauravlonariofficial@gmail.com" target="_blank">gauravlonariofficial@gmail.com</a>|
-- ⚡ Fun fact **undefined can also be defined in javascript**
+|<p align="center">🔭 I’m currently working on [NotesAnywhere](https://github.com/gauravlonari/NotesAnywhere) </p> | <p align="center">📜 View <a href="https://drive.google.com/drive/folders/1JoYhvR2LAOs7atCZcOqDiwgNE3ThsOnS?usp=sharing" target="_blank">Resume</a></p> |
+| <p align="center">  ⚙️ Currently advancing **SpringBoot** </p> | <p align="center"> 💬 Visit **[Portfolio](http://gauravlonari.github.io)** </p> |
+| <p align="center"> 👾 Looking to collaborate on **Game Development** </p> | <p align="center"> 🖋️ Read <a target="_blank" href="http://www.freeqry.blogspot.com">Blog</a> </p> |
+
+📫 Reach me at <a href="mailto:gauravlonariofficial@gmail.com" target="_blank">gauravlonariofficial@gmail.com</a>
+
+⚡ Fun fact **undefined can also be defined in javascript**
 </div>
 
 ## Activity Statistics
