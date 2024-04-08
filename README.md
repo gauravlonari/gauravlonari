@@ -23,7 +23,7 @@
   
 |<img src="https://github.com/gauravlonari/static/blob/main/brain.png" alt="brain" width="50px"/>|<img src="https://github.com/gauravlonari/static/blob/main/united.png" alt="united" width="50px"/>|
 |---|---|
-|<p align="center">🔭 I’m currently working on [NotesAnywhere](https://github.com/gauravlonari/NotesAnywhere) </p> | <p align="center">📜 View <a href="https://drive.google.com/drive/folders/1JoYhvR2LAOs7atCZcOqDiwgNE3ThsOnS?usp=sharing" target="_blank">Resume</a></p> |
+|<p align="center">🔭 I’m currently working on [Psyming](https://psyming.vercel.app/)(Discipline App) </p> | <p align="center">📜 View <a href="https://drive.google.com/drive/folders/1JoYhvR2LAOs7atCZcOqDiwgNE3ThsOnS?usp=sharing" target="_blank">Resume</a></p> |
 | <p align="center">  ⚙️ Currently advancing **SpringBoot** </p> | <p align="center"> 💬 Visit **[Portfolio](http://gauravlonari.github.io)** </p> |
 | <p align="center"> 👾 Looking to collaborate on **Game Development** </p> | <p align="center"> 🖋️ Read <a target="_blank" href="http://www.freeqry.blogspot.com">Blog</a> </p> |
 
