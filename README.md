@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://linkedin.com/in/gauravlonari">Gaurav Lonari</a> </h1>
-<h3 align="center">A tech enthusiast doing all kinds of software development (Android / Web / Hybrid / Game)</h3>
+<h3 align="center">A tech enthusiast, diving deep into the roots!</h3>
 
 <div align="center">
 <a href="https://instagram.com/lonari_gaurav_95" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
