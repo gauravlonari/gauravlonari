@@ -53,11 +53,11 @@ I went from intern to SDE-2 in 24 months by owning problems end to end: the Reac
 <br/>
 <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Prompt_Engineering-5A3FC0?style=flat-square"/> <img src="https://img.shields.io/badge/Agent_Rules_&_Repo_Context-5A3FC0?style=flat-square"/>
 
-## 🚀 Things I've shipped
+## 🚀 Things I've shipped or Assisted
 
 | | |
-|---|---|
 | **Per-PR preview environments** | Every pull request gets a usable product link in **under 60 seconds**, auto-updated on each commit. Replaced a multi-day wait on shared staging for product, design and QA. |
+|---|---|
 | **Deploys: 10 min → under 1 min** | Parallelised GitHub Actions, partial-clone checkouts, pinned toolchain, Slack release reporting. Migrated dev and prod pipelines to **keyless Workload Identity Federation**. |
 | **Observability from scratch** | **21 custom Datadog RUM vitals** and the team's production health dashboard: p95 latency and error rate by endpoint, Core Web Vitals by route, errors-per-session by release. Frontend **MTTR 2 days → under 1 hour**. |
 | **Web performance** | Login load time **−67%** (4.5 s → 1.5 s), initial JavaScript **−93%** (3.3 MB → 230 KB), production build **−61%**. Lighthouse **60 → 90**. Landed the tree-shaking work in the shared component library that every client app now imports. |
@@ -76,7 +76,7 @@ I went from intern to SDE-2 in 24 months by owning problems end to end: the Reac
 - **Stacked PRs, small diffs.** One reviewable idea per PR; 1,000+ reviews taught me what unreviewable looks like.
 - **Instrument before you optimise.** Every perf number above came after a vital or a dashboard existed to measure it.
 - **AI in the loop, conventions in the repo.** Agent rules and MCP context live next to the code so AI-assisted changes look like the team wrote them.
-- **Async by default.** Written specs, decision records, and PR descriptions a stranger could act on — the habit that made a US-timezone contract work.
+- **Async by default.** Written specs, decision records, and PR descriptions a stranger could act on.
 
 ## 📫 Elsewhere
 
