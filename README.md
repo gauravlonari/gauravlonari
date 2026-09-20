@@ -1,66 +1,85 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://linkedin.com/in/gauravlonari">Gaurav Lonari</a> </h1>
-<h3 align="center">A tech enthusiast, diving deep into the roots!</h3>
+<h1 align="center">Hi, I'm Gaurav Lonari 👋</h1>
+<h3 align="center">Full Stack Product Engineer · React, TypeScript, Node.js on Google Cloud</h3>
+<p align="center">SDE-2 at <a href="https://www.loophealth.com">Loop Health</a> — building the enrolment and benefits platform for 1M+ members · Pune, India · open to remote</p>
 
-<div align="center">
-<a href="https://instagram.com/lonari_gaurav_95" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/gauravlonari" target="blank"><img src="https://img.shields.io/badge/LINKEDIN%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/freeq" target="blank"><img src="https://img.shields.io/badge/YOUTUBE%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://twitter.com/lonarigaurav" target="blank"><img src="https://img.shields.io/badge/TWITTER%20-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/gauravlonari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/lonarigaurav"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.youtube.com/@psyming"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/lonari_gaurav_95"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:gauravlonariofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<div align="center">
- <a href="https://www.leetcode.com/gauravlonari" target="blank"><img src="https://img.shields.io/badge/LEETCODE%20-%2300FF00.svg?&style=for-the-badge&logo=Leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/gaurav_22120147" target="blank"><img src="https://img.shields.io/badge/HACKERRANK%20-%23B300B3.svg?&style=for-the-badge&logo=hackerrank"/></a> 
- <a href="https://auth.geeksforgeeks.org/user/gauravlonari/profile" target="blank"><img src="https://img.shields.io/badge/GEEKSFORGEEKS%20-%23B300B3.svg?&style=for-the-badge&logo=geeksforgeeks"/></a>
- <a href="https://www.codechef.com/users/gauravlonari" target="blank"><img src="https://img.shields.io/badge/CODECHEF%20-%2300FF00.svg?&style=for-the-badge&logo=CodeChef&logoColor=white"/></a> 
-</div>
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=gauravlonari'></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=gauravlonari" alt="visitors"/></p>
 
 ---
 
-<div align="center">
-  
-|<img src="https://github.com/gauravlonari/static/blob/main/brain.png" alt="brain" width="50px"/>|<img src="https://github.com/gauravlonari/static/blob/main/united.png" alt="united" width="50px"/>|
+## About
+
+I went from intern to SDE-2 in 24 months by owning problems end to end: the React frontend a member clicks through, the Node.js services behind the API Gateway, the pipeline that ships both, and the dashboards that page me when something breaks. Health insurance is unforgiving about data — a wrong dependent or a double checkout is someone's coverage — so I care a lot about idempotency, observability and boring, reliable releases.
+
+> 📈 **Most of my commits are in a private organisation.** The graph below is real activity — ~1,500 contributions this year across 8 repositories — you just can't click through to the code. Ask me about any of it.
+
+## 🔭 Right now
+
+- **Building** the corporate benefits enrolment portal at Loop Health — React 18 + 3 Node.js services on Cloud Run, serving clients of 800 to 8,000 employees
+- **Shipping** [psyMing](https://psyming.vercel.app), an offline-first PWA for habits and reminders, on evenings and weekends
+- **Contributing** to [speaktype](https://github.com/karansinghgit/speaktype), a 100% offline voice-dictation app ([#142](https://github.com/karansinghgit/speaktype/pull/142))
+- **Exploring** how far agent rules and MCP can take AI-assisted engineering on a real production codebase
+
+## 🛠 Stack
+
+**Core**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/REST-005571?style=flat-square"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-0A66C2?style=flat-square"/> <img src="https://img.shields.io/badge/SSO_·_OAuth_2.0_·_JWT-333333?style=flat-square&logo=auth0&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+**Cloud**
+<br/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/API_Gateway-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud_Load_Balancing-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+**Platform & Delivery**
+<br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-222222?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/PR_Preview_Environments-6E40C9?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Workload_Identity_Federation-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Flagsmith-1E1E1E?style=flat-square"/> <img src="https://img.shields.io/badge/Web_Performance-FF6F00?style=flat-square&logo=lighthouse&logoColor=white"/>
+
+**Reliability & Security**
+<br/>
+<img src="https://img.shields.io/badge/Datadog_RUM-632CA6?style=flat-square&logo=datadog&logoColor=white"/> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/> <img src="https://img.shields.io/badge/Core_Web_Vitals-0F9D58?style=flat-square&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/> <img src="https://img.shields.io/badge/CSP-D93025?style=flat-square"/> <img src="https://img.shields.io/badge/SOC_2-1F4E79?style=flat-square"/> <img src="https://img.shields.io/badge/VAPT-8B0000?style=flat-square"/>
+
+**AI Engineering**
+<br/>
+<img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Prompt_Engineering-5A3FC0?style=flat-square"/> <img src="https://img.shields.io/badge/Agent_Rules_&_Repo_Context-5A3FC0?style=flat-square"/>
+
+## 🚀 Things I've shipped
+
+| | |
 |---|---|
-|<p align="center">🔭 I’m currently working on [Psyming](https://psyming.vercel.app/)(Discipline App) </p> | <p align="center">📜 View <a href="https://drive.google.com/drive/folders/1JoYhvR2LAOs7atCZcOqDiwgNE3ThsOnS?usp=sharing" target="_blank">Resume</a></p> |
-| <p align="center">  ⚙️ Currently advancing **SpringBoot** </p> | <p align="center"> 💬 Visit **[Portfolio](http://gauravlonari.github.io)** </p> |
-| <p align="center"> 👾 Looking to collaborate on **Game Development** </p> | <p align="center"> 🖋️ Read <a target="_blank" href="http://www.freeqry.blogspot.com">Blog</a> </p> |
+| **Per-PR preview environments** | Every pull request gets a usable product link in **under 60 seconds**, auto-updated on each commit. Replaced a multi-day wait on shared staging for product, design and QA. |
+| **Deploys: 10 min → under 1 min** | Parallelised GitHub Actions, partial-clone checkouts, pinned toolchain, Slack release reporting. Migrated dev and prod pipelines to **keyless Workload Identity Federation**. |
+| **Observability from scratch** | **21 custom Datadog RUM vitals** and the team's production health dashboard: p95 latency and error rate by endpoint, Core Web Vitals by route, errors-per-session by release. Frontend **MTTR 2 days → under 1 hour**. |
+| **Web performance** | Login load time **−67%** (4.5 s → 1.5 s), initial JavaScript **−93%** (3.3 MB → 230 KB), production build **−61%**. Lighthouse **60 → 90**. Landed the tree-shaking work in the shared component library that every client app now imports. |
+| **Idempotent checkout** | Designed the state-transition guards after a race between async benefit writes and checkout confirmation could wipe member benefits. Checkout is replay-safe. |
+| **20,000-row table on a laptop** | Operations console member view from **2 GB → 40 MB** of heap with row virtualization. Usable on low-end operator machines. |
+| **MCP for the codebase** | An internal Model Context Protocol integration that streams live browser UX context into AI coding agents, plus the repository agent rules that keep AI-assisted changes on team conventions. |
+| **Component library** | **#1 contributor** to the company's shared React library. **1,000+ pull requests reviewed** across 8 repositories. |
 
-📫 Reach me at <a href="mailto:gauravlonariofficial@gmail.com" target="_blank">gauravlonariofficial@gmail.com</a>
+## 🌱 Side projects & open source
 
-⚡ Fun fact **undefined can also be defined in javascript**
-</div>
+- **[psyMing](https://psyming.vercel.app)** — an offline-first PWA for habits, reminders and milestones. React, Redux Toolkit, MUI and localforage on the front; Express + Mongoose on Vercel Functions behind it, with web push driven by a cron scheduler. Built because every habit app I tried needed a network connection to tell me to drink water.
+- **[speaktype](https://github.com/karansinghgit/speaktype)** — 100% offline, open-source voice dictation. Fixed the control pill and menu-bar panel so they render over full-screen apps ([#142](https://github.com/karansinghgit/speaktype/pull/142)).
 
-## Activity Statistics
-<div align="center">
+## 🧭 How I work
 
-|GitStreaks|
-|---|
-|![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gauravlonari&theme=dark)|
+- **Stacked PRs, small diffs.** One reviewable idea per PR; 1,000+ reviews taught me what unreviewable looks like.
+- **Instrument before you optimise.** Every perf number above came after a vital or a dashboard existed to measure it.
+- **AI in the loop, conventions in the repo.** Agent rules and MCP context live next to the code so AI-assisted changes look like the team wrote them.
+- **Async by default.** Written specs, decision records, and PR descriptions a stranger could act on — the habit that made a US-timezone contract work.
 
-| Stats | Languages |
-|--- | --- |
-|![Activity Statistics](https://github-readme-stats.vercel.app/api?username=gauravlonari&show_icons=true&theme=midnight-purple) |  [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravlonari&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/gauravlonari/github-readme-stats)|
-</div>
+## 📫 Elsewhere
 
-## Tech Stack
+Portfolio: [gauravlonari.github.io](https://gauravlonari.github.io) · Writing: [freeqry.blogspot.com](http://www.freeqry.blogspot.com) · Email: [gauravlonariofficial@gmail.com](mailto:gauravlonariofficial@gmail.com)
 
-<div align="center">
-
-|Languages|Frontend|Backend|Database|Frameworks|Dev Tools|DevOps|Graphics|Other|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="devicon" align="center" width="40" height="40" title="C"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Html5"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Nodejs"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Firebase"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Bootstrap"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Eslint"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Jira"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="devicon" align="center" width="40" height="40" title="Aftereffects"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="devicon" align="center" width="40" height="40" title="Unity"/>|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="devicon" align="center" width="40" height="40" title="Cplusplus"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="devicon" align="center" width="40" height="40" title="Css3"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Tomcat"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Mongodb"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Tailwindcss"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="devicon" align="center" width="40" height="40" title="Jest"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Confluence"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="devicon" align="center" width="40" height="40" title="Illustrator"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="devicon" align="center" width="40" height="40" title="Blender"/>|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Java"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="React"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="devicon" align="center" width="40" height="40" title="Nginx"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Mysql"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="devicon" align="center" width="40" height="40" title="Androidstudio"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Jupyter"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Git"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="devicon" align="center" width="40" height="40" title="Premierepro"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="devicon" align="center" width="40" height="40" title="Linux"/>|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="devicon" align="center" width="40" height="40" title="Javascript"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="devicon" align="center" width="40" height="40" title="Redux"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Kubernetes"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Postgresql"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Spring"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Amazonwebservices"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Github"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="devicon" align="center" width="40" height="40" title="Photoshop"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Vscode"/>|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="devicon" align="center" width="40" height="40" title="Typescript"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="devicon" align="center" width="40" height="40" title="Sass"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="devicon" align="center" width="40" height="40" title="Bash"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Sqlite"/>||<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="devicon" align="center" width="40" height="40" title="Googlecloud"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="devicon" align="center" width="40" height="40" title="Docker"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="devicon" align="center" width="40" height="40" title="Canva"/>||
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="devicon" align="center" width="40" height="40" title="Python"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="devicon" align="center" width="40" height="40" title="Markdown"/>||||||||
-
-</div>
-
-## Holopin Badge Collection
-[![@gauravlonari's Holopin board](https://holopin.me/gauravlonari)](https://holopin.io/@gauravlonari)
-
-### If you have reached this, you are free to laugh
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117" width="100%" align="center"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravlonari&theme=dark&hide_border=true" alt="GitHub streak"/></p>
